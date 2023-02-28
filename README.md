@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rocket Science
 - 🌱 I’m currently learning in ninth standard
 - 💞️ I’m looking to collaborate on coding and rocket science most probably.
-- 📫 How to reach me: I guess you'll never know
+- 📫 How to reach me: You can add me in discord Modet#1750
 
 <!---
 DBagga2210/DBagga2210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
